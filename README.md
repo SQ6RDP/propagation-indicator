@@ -11,3 +11,12 @@ How to read leds:
 
 Ham Radio weather station Propagation indicator - reading from https://www.hamqsl.com/solar.html and indicating propagation condition into RGB LED and Oled. Conection via eth or WIFI based on ESP8266 or ESP32. Please help me with development if You see some potential.
 
+
+[22.03.21 22:17]
+Gdyby ktoś coś chciał dodać to POPROSZĘ NA PRV
+w planie:
+- Duży ładny zegarek sync z sieci albo GPS
+- Alerty z DX Robot: https://amunters.home.xs4all.nl/index.html
+- wartości oraz Trendy parametrów Ka index A index SunSpot SolarFlux index .... ewentualnie innych
+- może odczyt danych via CAT
+- jeden duży wyświetlacz? Jaki? (duże OLEDY były drogie, użyłem 4 mniejsza, może ich być nawet 10)
