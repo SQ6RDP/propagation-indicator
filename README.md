@@ -20,3 +20,7 @@ w planie:
 - wartości oraz Trendy parametrów Ka index A index SunSpot SolarFlux index .... ewentualnie innych
 - może odczyt danych via CAT
 - jeden duży wyświetlacz? Jaki? (duże OLEDY były drogie, użyłem 4 mniejsza, może ich być nawet 10)
+
+20210705:
+add PSKREPORTER:
+https://retrieve.pskreporter.info/query?receiverCallsign=SP6PWT&frange=144000000-145000000&rronly=true&flowStartSeconds=-7200&distance=true
