@@ -21,6 +21,10 @@ w planie:
 - może odczyt danych via CAT
 - jeden duży wyświetlacz? Jaki? (duże OLEDY były drogie, użyłem 4 mniejsza, może ich być nawet 10)
 
-20210705:
+[2021.07.05]
 add PSKREPORTER:
+
 https://retrieve.pskreporter.info/query?receiverCallsign=SP6PWT&frange=144000000-145000000&rronly=true&flowStartSeconds=-7200&distance=true
+
+
+mail SQ6RDP@mailplus.pl
